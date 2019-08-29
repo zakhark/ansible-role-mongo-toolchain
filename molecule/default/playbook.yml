@@ -1,0 +1,8 @@
+---
+- become: true
+  name: Converge
+  hosts: all
+  roles:
+    - role: ansible-role-mongo-toolchain
+      vars:
+        mongo_toolchain_sha: 1440f2ce9521f9756565ce4a9a45ee382414a80e
