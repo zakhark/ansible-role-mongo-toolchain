@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.1.0...v1.1.1) (2019-10-14)
+
+
+### Bug Fixes
+
+* some distros need sudo to rename toolchain ([dab5de7](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/dab5de79af8367938ecc9281c1bf5417e4e20e07))
+
 # [1.1.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.0.0...v1.1.0) (2019-10-09)
 
 
