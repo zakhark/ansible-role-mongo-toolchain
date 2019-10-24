@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.0...v1.2.1) (2019-10-24)
+
+
+### Bug Fixes
+
+* Create and use the revisions directory ([302b45d](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/302b45d7f07cc9cc4145c2aad9b89ec3bfbfb820))
+* Vars were not being passed properly in meta ([6f0b027](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/6f0b0275f183b6c2848ad12968e7bee29886a2e3))
+
 # [1.2.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.1.1...v1.2.0) (2019-10-18)
 
 
