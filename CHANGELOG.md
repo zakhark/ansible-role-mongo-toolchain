@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.1...v1.2.2) (2019-10-24)
+
+
+### Bug Fixes
+
+* Adding missing toolchain install script ([734964f](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/734964fd4a5ded6a7075229974fd6bd6d540a06f))
+
 ## [1.2.1](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.0...v1.2.1) (2019-10-24)
 
 
