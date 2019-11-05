@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.3...v1.2.4) (2019-11-05)
+
+
+### Bug Fixes
+
+* Fixed the "creates" directory for ins script ([ec7cae4](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/ec7cae4b36f3566b57e66a51e7c8354cf3a766f0))
+
 ## [1.2.3](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.2...v1.2.3) (2019-11-05)
 
 
