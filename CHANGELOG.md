@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.2...v1.2.3) (2019-11-05)
+
+
+### Bug Fixes
+
+* Added become permissions to install script ([bc4db17](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/bc4db17f03cb3846477c3378543e4eb1326ba416))
+
 ## [1.2.2](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.1...v1.2.2) (2019-10-24)
 
 
