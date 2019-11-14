@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.4...v1.3.0) (2019-11-14)
+
+
+### Bug Fixes
+
+* Changed variable for final destination ([b7b312a](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/b7b312aaeeb73da9f961af2948374c89db5d6165))
+* Changed variables to correct name and values ([3831e99](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/3831e996f640e64c66bafaf794547d79feec7852))
+* Renamed variables to be passed in meta ([b23e1b8](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/b23e1b87258504b1c2bebe8f4f6b7249f483f27b))
+
+
+### Features
+
+* Create version file for mongo toolchain ([200f286](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/200f2866df91d5a8e279549336704665a373e258))
+
 ## [1.2.4](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.3...v1.2.4) (2019-11-05)
 
 
