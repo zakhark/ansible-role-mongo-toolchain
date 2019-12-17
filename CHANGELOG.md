@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.3.0...v1.3.1) (2019-12-17)
+
+
+### Bug Fixes
+
+* Removed unused architecture variable ([62d7a18](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/62d7a18f2d00116977860cdf370e92dee7a96ad8))
+
 # [1.3.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.2.4...v1.3.0) (2019-11-14)
 
 
