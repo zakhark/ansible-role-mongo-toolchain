@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.3.1...v1.4.0) (2020-01-30)
+
+
+### Features
+
+* Added RHEL6 support ([e0b8a08](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/e0b8a084f74e850a057e48d092cfb4fd52878416))
+
 ## [1.3.1](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.3.0...v1.3.1) (2019-12-17)
 
 
