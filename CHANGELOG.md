@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.4.0...v1.5.0) (2020-02-07)
+
+
+### Features
+
+* Pass delete first var to parent tc role ([cd041e8](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/cd041e8545f86302d13a4366659c70dbc26bba88))
+
 # [1.4.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.3.1...v1.4.0) (2020-01-30)
 
 
