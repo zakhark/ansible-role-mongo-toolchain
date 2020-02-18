@@ -6,6 +6,8 @@ dependencies:
       toolchain_version: "{{ mongo_toolchain_sha }}"
       toolchain_final_dest: "{{ mongo_toolchain_final_dest }}"
       toolchain_delete_old_final_dest: "{{ mongo_toolchain_delete_old_final_dest }}"
+      toolchain_async: "{{ mongo_toolchain_async | default(omit) }}"
+      toolchain_poll: "{{ mongo_toolchain_poll | default(omit) }}"
 galaxy_info:
   author: MongoDB
   description: Installs the mongo toolchain
