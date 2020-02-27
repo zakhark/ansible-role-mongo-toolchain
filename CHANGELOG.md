@@ -1,3 +1,16 @@
+# [1.6.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.5.0...v1.6.0) (2020-02-27)
+
+
+### Bug Fixes
+
+* Add private key setup ([b5dfd58](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/b5dfd5821fee4566073f9a7a5de1a6fbd9fd9488))
+
+
+### Features
+
+* Add rhel7 support ([f0bf919](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/f0bf919150dbf483917b09c96035fe5012928467))
+* Upgrade to molecule 3 ([28b7f0e](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/commit/28b7f0e9ed295e67eb478664fc3527d9e08d9444))
+
 # [1.5.0](https://github.com/mongodb-ansible-roles/ansible-role-mongo-toolchain/compare/v1.4.0...v1.5.0) (2020-02-07)
 
 
